@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <Question>Wann wurde Mozart geboren?</Question>
+    <Answers>
+      <Answer1 correct="true">1756</Answer1>
+      <Answer2 correct="false">1812</Answer2>
+      <Answer3 correct="false">1791</Answer3>
+      <Answer4 correct="false">1732</Answer4>
+    </Answers>
+    <Followup></Followup>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Wann wurde Haydn geboren?</Question>
+    <Answers>
+      <Answer1 correct="true">1732</Answer1>
+      <Answer2 correct="false">1717</Answer2>
+      <Answer3 correct="false">1921</Answer3>
+      <Answer4 correct="false">1807</Answer4>
+    </Answers>
+    <Followup></Followup>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Wie viele Seiten hat der Kontrabass?</Question>
+    <Image>e1-1</Image>
+    <Answers>
+      <Answer1 correct="true">4</Answer1>
+      <Answer2 correct="false">8</Answer2>
+      <Answer3 correct="false">12</Answer3>
+      <Answer4 correct="false">7</Answer4>
+    </Answers>
+    <Followup></Followup>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Woher wurde der Komponist William Grant Still geboren?</Question>
+    <Image>f1-1</Image>
+    <Answers>
+      <Answer1 correct="true">Mississippi</Answer1>
+      <Answer2 correct="false">Paris</Answer2>
+      <Answer3 correct="false">Tokyo</Answer3>
+      <Answer4 correct="false">Kairo</Answer4>
+    </Answers>
+    <Followup></Followup>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Wie viele Sinfonien hat Beethoven geschrieben?</Question>
+    <Answers>
+      <Answer1 correct="true">9</Answer1>
+      <Answer2 correct="false">40</Answer2>
+      <Answer3 correct="false">104</Answer3>
+      <Answer4 correct="false">keine</Answer4>
+    </Answers>
+    <Followup></Followup>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+      <Question>Welche Epoche folgte auf die Renaissance?</Question>
+    <Image>g1-1</Image>
+    <Answers>
+      <Answer1 correct="true">Barock</Answer1>
+      <Answer2 correct="false">Romantik</Answer2>
+      <Answer3 correct="false">Klassik</Answer3>
+      <Answer4 correct="false">Moderne</Answer4>
+    </Answers>
+    <Followup></Followup>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+      <Question>Welche Oper von Mozart spielt in der Türkei?</Question>
+    <Answers>
+      <Answer1 correct="true">Die Entführung aus dem Serail</Answer1>
+      <Answer2 correct="false">Die Hochzeit des Figaro</Answer2>
+      <Answer3 correct="false">Die Zauberflöte</Answer3>
+      <Answer4 correct="false">Cosi fan tutte</Answer4>
+    </Answers>
+    <Followup></Followup>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+      <Question>Wer schrieb "die Moldau"</Question>
+    <Answers>
+      <Answer1 correct="true">Smetana</Answer1>
+      <Answer2 correct="false">Bartok</Answer2>
+      <Answer3 correct="false">Gluck</Answer3>
+      <Answer4 correct="false">Händel</Answer4>
+    </Answers>
+    <Followup></Followup>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+      <Question>In welchem dieser Werke wird ein Sonnenaufgang vertont?</Question>
+    <Answers>
+      <Answer1 correct="true">Also sprach Zarathustra</Answer1>
+      <Answer2 correct="true">die Schöpfung</Answer2>
+      <Answer3 correct="true">Peer Gynt</Answer3>
+      <Answer4 correct="false">die Planeten</Answer4>
+    </Answers>
+    <Followup></Followup>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+      <Question>Welches Instrument der Hornfamilie wurde von Richard Wagner in Auftrag gegeben?</Question>
+    <Answers>
+      <Answer1 correct="true">Wagnertube</Answer1>
+      <Answer2 correct="false">Wagnerhorn</Answer2>
+      <Answer3 correct="false">Wagnerposaune</Answer3>
+      <Answer4 correct="false">Wagnercornett</Answer4>
+    </Answers>
+    <Followup></Followup>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+      <Question>Welche Musik lernte Debussy auf der Weltausstellung 1900 kennen?</Question>
+    <Answers>
+      <Answer1 correct="true">Gamelan-Musik</Answer1>
+      <Answer2 correct="false">Zulu-Musik</Answer2>
+      <Answer3 correct="false">Calypso-Musik</Answer3>
+      <Answer4 correct="false">Trubači-Musik</Answer4>
+    </Answers>
+    <Followup></Followup>
+    <Bonus>200</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+      <Question>Welches Instrument gibt im Orchester normalerweise den Stimmton an?</Question>
+    <Answers>
+      <Answer1 correct="true">Oboe</Answer1>
+      <Answer2 correct="false">Tuba</Answer2>
+      <Answer3 correct="false">Fagott</Answer3>
+      <Answer4 correct="false">Harfe</Answer4>
+    </Answers>
+    <Followup></Followup>
+    <Bonus>200</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+      <Question>Was bedeutet das griechische Wort "chroma"?</Question>
+    <Answers>
+      <Answer1 correct="true">Farbe</Answer1>
+      <Answer2 correct="false">Halbton</Answer2>
+      <Answer3 correct="false">Reibung</Answer3>
+      <Answer4 correct="false">Glanz</Answer4>
+    </Answers>
+    <Followup></Followup>
+    <Bonus>200</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+      <Question>Aus was besteht Kolophonium?</Question>
+    <Answers>
+      <Answer1 correct="true">Baumharz</Answer1>
+      <Answer2 correct="false">Plastik</Answer2>
+      <Answer3 correct="false">Milchglas</Answer3>
+      <Answer4 correct="false">Kautschuk</Answer4>
+    </Answers>
+    <Followup></Followup>
+    <Bonus>200</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+      <Question>Wie heißt der letzte Satz der "vier Jahreszeiten"?</Question>
+    <Answers>
+      <Answer1 correct="true">Winter</Answer1>
+      <Answer2 correct="false">Herbst</Answer2>
+      <Answer3 correct="false">Frühling</Answer3>
+      <Answer4 correct="false">Sommer</Answer4>
+    </Answers>
+    <Followup></Followup>
+    <Bonus>200</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+      <Question>Wer schrieb "Peter und der Wolf?</Question>
+    <Answers>
+      <Answer1 correct="true">Prokofjew</Answer1>
+      <Answer2 correct="false">Strawinsky</Answer2>
+      <Answer3 correct="false">Mussorgski</Answer3>
+      <Answer4 correct="false">Grofé</Answer4>
+    </Answers>
+    <Followup></Followup>
+    <Bonus>200</Bonus>
+    <Time>8</Time>
+  </record>
+</data-set>
